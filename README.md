@@ -25,7 +25,7 @@ Mon pseudo, c'est Aximilie, mais tu peux simplement m'appeler Maximilien :D
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaximilienHe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Tous mes liens pratiques (RS et WebSite) :</h3>
 <p align="left">
 <a href="https://twitter.com/AximilieTech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/maximilien-herr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
