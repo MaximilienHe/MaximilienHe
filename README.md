@@ -1,4 +1,3 @@
-![banner](https://user-images.githubusercontent.com/93247222/181360319-fd9263a2-af55-4768-b7f6-efbd8a2dc068.png)
 [![MasterHead](https://user-images.githubusercontent.com/93247222/181360319-fd9263a2-af55-4768-b7f6-efbd8a2dc068.png)](https://github.com/MaximilienHe)
 
 
