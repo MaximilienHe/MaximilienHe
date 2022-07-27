@@ -31,7 +31,7 @@ Mon pseudo, c'est Aximilie, mais tu peux simplement m'appeler Maximilien :D
 <a href="https://www.linkedin.com/in/maximilien-herr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/AximilieTech/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@aximilie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="" height="30" width="40" /></a>
-<a href="https://maximilienherr.web-edu.fr/" target="blank"><img align="center" src="https://www.pngmart.com/files/8/Website-PNG-HD.png" alt="" height="30" width="40" /></a>
+<a href="https://maximilienherr.web-edu.fr/" target="blank"><img align="center" src="https://www.pngmart.com/files/8/Website-PNG-HD.png" alt="" height="30" width="30" /></a>
 </p>
 
 <!--
