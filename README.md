@@ -9,7 +9,7 @@ Mon pseudo, c'est Aximilie, mais tu peux simplement m'appeler Maximilien :D
 - 👨‍💻 Mais je travaille aussi du Web, avec le HTML/CSS & JS + PHP + MySQL.
 - 🎮 Je travaille sous Unity avec du C# donc, et sous Unreal à travers le C++.
 - 📶 Tout ce qui va être architecture, système et réseaux, j'ai travaillé sous Powershell, avec Bash et du Shell, et dans l'environnement réseau Cisco.
-- 😄 I love computers, smartphones and manga/anime.
+- 😄 Mes centres d'intérêts, ce sont avant tout les nouvelles technologies, en particulier le marché des smartphones. Je suis aussi très intéressé par le journalisme !
 
 ### Github Stats
 <table>
