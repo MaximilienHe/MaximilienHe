@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/93247222/181360319-fd9263a2-af55-4768-b7f6-efbd8a2dc068.png)](https://github.com/MaximilienHe)
 
 
-Mon pseudo, c'est Aximilie, mais tu peux simplement m'appeler Maximilien :D
+Mon pseudo, c'est Aximilie, mais tu peux simplement m'appeler Maximilien
 
 - 📖 Je suis un étudiant en Informatique (BUT Informatique pour le moment).
 - 🔬 Pour autant, j'ai longtemps hésité avec le monde des sciences avant de me plonger dans celui de l'informatique ! Ca me donne une double casquette sciences / Informatique !
