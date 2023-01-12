@@ -32,7 +32,7 @@
 <a href="https://maximilienherr.web-edu.fr/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/93/93618.png" alt="" height="30" width="30" /></a>
 </p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximimilienhe&show_icons=true&theme=gruvbox&title_color=ffbb00&text_color=fbd05b&locale=en" alt="maximimilienhe" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaximilienHe&show_icons=true&theme=gruvbox&title_color=ffbb00&text_color=fbd05b&locale=en" alt="MaximilienHe" /></p> -->
 
 <!--
 **MaximilienHe/MaximilienHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
