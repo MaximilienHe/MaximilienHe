@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=MaximilienHe&theme=tokyonight&show_icons=true" />
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximilienHe&label=Profile%20views&color=0e75b6&style=flat" alt="MaximilienHe" /> </p>
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=MaximilienHe&theme=tokyonight&layout=default&show_icons=true" />
