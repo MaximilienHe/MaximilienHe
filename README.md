@@ -1,8 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/93247222/181360319-fd9263a2-af55-4768-b7f6-efbd8a2dc068.png)](https://github.com/MaximilienHe)
 
 
-Mon pseudo, c'est Aximilie, mais tu peux simplement m'appeler Maximilien
-
 - 📖 Je suis un étudiant en Informatique (BUT Informatique pour le moment).
 - 🔬 Pour autant, j'ai longtemps hésité avec le monde des sciences avant de me plonger dans celui de l'informatique ! Ca me donne une double casquette sciences / Informatique !
 - 💻 A travers mes études, je travaille de nombreux langages de programmation, pour les logiciels, il y a le C++ (main language), le C et Rust notamment.
@@ -33,6 +31,8 @@ Mon pseudo, c'est Aximilie, mais tu peux simplement m'appeler Maximilien
 <a href="https://www.tiktok.com/@aximilie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="" height="30" width="40" /></a>
 <a href="https://maximilienherr.web-edu.fr/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/93/93618.png" alt="" height="30" width="30" /></a>
 </p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximimilienhe&show_icons=true&theme=gruvbox&title_color=ffbb00&text_color=fbd05b&locale=en" alt="maximimilienhe" /></p> -->
 
 <!--
 **MaximilienHe/MaximilienHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
