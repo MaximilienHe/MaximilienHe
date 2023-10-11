@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/93247222/181360319-fd9263a2-af55-4768-b7f6-efbd8a2dc068.png)](https://github.com/MaximilienHe)
 
 
-- 📖 Je suis un étudiant en Informatique (BUT Informatique pour le moment).
+- 📖 Je suis un étudiant en Informatique (Ingénieur Informatique à ISIMA).
 - 🔬 Pour autant, j'ai longtemps hésité avec le monde des sciences avant de me plonger dans celui de l'informatique ! Ca me donne une double casquette sciences / Informatique !
 - 💻 A travers mes études, je travaille de nombreux langages de programmation, pour les logiciels, il y a le C++ (main language), le C et Rust notamment.
 - 👨‍💻 Mais je travaille aussi du Web, avec le HTML/CSS & JS + PHP + MySQL.
