@@ -1,13 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/93247222/181360319-fd9263a2-af55-4768-b7f6-efbd8a2dc068.png)](https://github.com/MaximilienHe)
 
 
-- 📖 Je suis un étudiant en Informatique (Ingénieur Informatique à ISIMA).
-- 🔬 Pour autant, j'ai longtemps hésité avec le monde des sciences avant de me plonger dans celui de l'informatique ! Ca me donne une double casquette sciences / Informatique !
-- 💻 A travers mes études, je travaille de nombreux langages de programmation, pour les logiciels, il y a le C++ (main language), le C et Rust notamment.
-- 👨‍💻 Mais je travaille aussi du Web, avec le HTML/CSS & JS + PHP + MySQL.
-- 🎮 Je travaille sous Unity avec du C# donc, et sous Unreal à travers le C++.
-- 📶 Tout ce qui va être architecture, système et réseaux, j'ai travaillé sous Powershell, avec Bash et du Shell, et dans l'environnement réseau Cisco.
-- 😄 Mes centres d'intérêts, ce sont avant tout les nouvelles technologies, en particulier le marché des smartphones. Je suis aussi très intéressé par le journalisme !
+- 🎓 Étudiant ingénieur à l’ISIMA – Clermont Auvergne INP, en spécialité Informatique.
+- 💻 Je travaille sur des projets autour du développement logiciel, web et mobile, en C++, Python, Django, et Flutter.
+- 🧠 Intéressé par les architectures logicielles modernes, le DevOps (Docker, PostgreSQL, CI/CD) et la data.
+- 🌐 J’ai également une solide expérience en web full-stack : HTML/CSS/JS, PHP, MySQL, API REST et PostgreSQL.
+- 🎮 Passionné par le hardware et le gaming, je couvre aussi l’actualité tech en tant que journaliste pour Frandroid, DroidSoft Le Café du Geek.
+- ⚙️ J’aime allier technique et créativité, que ce soit à travers des projets d’IoT, de vision par ordinateur, ou d’applications connectées.
 
 ### Github Stats
 <table>
